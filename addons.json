@@ -1,0 +1,29 @@
+[
+  {
+    "id": "my-first-plane",
+    "name": "Cessna 172 Skyhawk HD",
+    "category": "aircraft",
+    "filter": "General Aviation",
+    "description": "An ultra-high-definition texture pack and flight model overhaul for the classic C172.",
+    "size": "85 MB",
+    "magnet": "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny"
+  },
+  {
+    "id": "my-scenery-addon",
+    "name": "New York City Night Lights",
+    "category": "scenery",
+    "filter": "Domestic",
+    "description": "Enhanced night lighting for the entire NYC metro area including custom building textures.",
+    "size": "1.2 GB",
+    "magnet": "magnet:?xt=urn:btih:08ada5a7a610a1095515206634a9741e08905a3e&dn=Sintel"
+  },
+  {
+    "id": "weather-tool",
+    "name": "Storm Chaser Pro",
+    "category": "other",
+    "filter": "Utility",
+    "description": "A tool that injects real-time hurricane and storm data into your simulator.",
+    "size": "12 MB",
+    "magnet": "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny"
+  }
+]
