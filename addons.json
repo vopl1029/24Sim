@@ -1,29 +1,20 @@
 [
   {
-    "id": "my-first-plane",
-    "name": "Cessna 172 Skyhawk HD",
+    "id": "PMDG-738",
+    "name": "PMDG 737-800 4.0.18",
     "category": "aircraft",
-    "filter": "General Aviation",
-    "description": "An ultra-high-definition texture pack and flight model overhaul for the classic C172.",
-    "size": "85 MB",
-    "magnet": "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny"
+    "filter": "Commericial",
+    "description": "The PMDG 737 for Microsoft Flight Simulator 2024 is a highly detailed, study-level simulation of the Boeing 737NG, featuring advanced systems, realistic flight dynamics, and enhanced visuals built specifically for the new sim platform.",
+    "size": "10.9 GB",
+    "magnet": "magnet:?xt=urn:btih:2645ed94453121037815734bfe61b5df5c21b611&dn=pmdg-737-800%20v4.0.18.zip&xl=3538807838"
   },
   {
-    "id": "my-scenery-addon",
-    "name": "New York City Night Lights",
+    "id": "ini-newyork-jfk",
+    "name": "IniBuilds New York JFK Enhanced 1.0.2",
     "category": "scenery",
-    "filter": "Domestic",
-    "description": "Enhanced night lighting for the entire NYC metro area including custom building textures.",
-    "size": "1.2 GB",
-    "magnet": "magnet:?xt=urn:btih:08ada5a7a610a1095515206634a9741e08905a3e&dn=Sintel"
+    "filter": "International",
+    "description": "The iniBuilds New York JFK Enhanced for MSFS 2024 is a highly detailed, performance-optimized recreation of John F. Kennedy International Airport with updated layouts, custom ground textures, and realistic terminal and lighting enhancements reflecting the airport’s latest real-world state.",
+    "size": "3.82 GB",
+    "magnet": "magnet:?xt=urn:btih:8a707a85c4390f787b868026b39b446429fca3c7&dn=inibuilds-newyork-jfk-enhanced-v1.0.2.zip&xl=2255701332"
   },
-  {
-    "id": "weather-tool",
-    "name": "Storm Chaser Pro",
-    "category": "other",
-    "filter": "Utility",
-    "description": "A tool that injects real-time hurricane and storm data into your simulator.",
-    "size": "12 MB",
-    "magnet": "magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny"
-  }
 ]
